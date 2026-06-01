@@ -29,7 +29,7 @@ Atualmente estou desenvolvendo projetos com foco em **React**, **JavaScript**, *
 
 Sistema web para uma confeitaria, com área do cliente, carrinho, cadastro de endereços, painel administrativo, produtos e pedidos.
 
-**Tecnologias:** React, JavaScript, TailwindCSS, PHP e MySQL
+**Tecnologias:** React, JavaScript, TailwindCSS, PHP, MySQL e CSS
 
 🔗 Repositório: [site-confeitaraia](https://github.com/CamilaSantosdeOliveira/site-confeitaraia)
 
