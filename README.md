@@ -37,7 +37,7 @@ Sistema web para uma confeitaria, com área do cliente, carrinho, cadastro de en
 
 Plataforma web completa para agendamento de aulas particulares com três perfis de acesso: Aluno, Professor e Administrador. Dashboard moderno, modo escuro, agendamento de aulas, gerenciamento de cursos e certificados.
 
-**Tecnologias:** PHP, MySQL, JavaScript
+**Tecnologias:** PHP, MySQL, JavaScript, HTML, CSS
 
 🔗 Repositório: [sistema-agendamento](https://github.com/CamilaSantosdeOliveira/sistema-agendamento)
 
