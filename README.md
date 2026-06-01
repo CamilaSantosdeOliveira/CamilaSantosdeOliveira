@@ -23,7 +23,7 @@ Atualmente estou desenvolvendo projetos com foco em **React**, **JavaScript**, *
 - 🧠 Buscando evoluir como Desenvolvedora Júnior
 - 🚀 Criando projetos reais para portfólio
 
-## 📌 Projeto em destaque
+## 📌 Projetos em destaque
 
 ### 🍰 Site Confeitaria
 
@@ -32,6 +32,14 @@ Sistema web para uma confeitaria, com área do cliente, carrinho, cadastro de en
 **Tecnologias:** React, JavaScript, TailwindCSS, PHP e MySQL
 
 🔗 Repositório: [site-confeitaraia](https://github.com/CamilaSantosdeOliveira/site-confeitaraia)
+
+### 📚 Sistema de Agendamento
+
+Plataforma web completa para agendamento de aulas particulares com três perfis de acesso: Aluno, Professor e Administrador. Dashboard moderno, modo escuro, agendamento de aulas, gerenciamento de cursos e certificados.
+
+**Tecnologias:** PHP, MySQL, HTML5, CSS3, JavaScript, Font Awesome
+
+🔗 Repositório: [sistema-agendamento](https://github.com/CamilaSantosdeOliveira/sistema-agendamento)
 
 ## 📊 Estatísticas do GitHub
 
